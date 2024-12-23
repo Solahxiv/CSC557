@@ -1,8 +1,8 @@
 <html>
     <head>
         <title>Menu</title>
-        <link rel="icon" type="image/x-icon" href="Media/logoFOS.png">
-        <link rel="stylesheet" href="CSS/style.css">
+        <link rel="icon" type="image/x-icon" href="./Media/logoFOS.png">
+        <link rel="stylesheet" href="./CSS/style.css">
     </head>
     <body>
         <?php include 'userheader.php';?>
@@ -30,7 +30,7 @@
                 <h2>Best Seller</h2>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -41,7 +41,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -52,7 +52,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -63,7 +63,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -77,7 +77,7 @@
                 <h2>Breakkie</h2>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -99,7 +99,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -113,7 +113,7 @@
                 <h2>Coffee</h2>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -124,7 +124,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -135,7 +135,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -149,7 +149,7 @@
                 <h2>Non-Coffee</h2>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -160,7 +160,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -171,7 +171,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -185,7 +185,7 @@
                 <h2>Pastries</h2>
                 <div class="item">
                 <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -196,7 +196,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -207,7 +207,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -221,7 +221,7 @@
                 <h2>Cakes</h2>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -232,7 +232,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -243,7 +243,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -257,7 +257,7 @@
                 <h2>Snacks</h2>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -268,7 +268,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
@@ -279,7 +279,7 @@
                 </div>
                 <div class="item">
                     <div class="item-images">
-                        <img src="Media/logoFOS.png" alt="Menu">
+                        <img src="./Media/logoFOS.png" alt="Menu">
                     </div>
                     <div class="item-info">
                         <h1>Caramel Machiato</h1>
